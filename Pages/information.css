@@ -1,0 +1,20 @@
+.about {
+    width: 800px;
+}
+
+.img-2 {
+    position: relative;
+    top: 20px;
+    left: 200px;
+    border-radius: 50px;
+}
+
+.about p {
+    position: relative;
+    top: 60px;
+    left: 210px;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #31363F;
+}
